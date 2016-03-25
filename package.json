@@ -1,0 +1,29 @@
+{
+  "name": "portfolio",
+  "version": "0.0.1",
+  "description": "things jeff ong has made / done",
+  "main": "dist/index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jffng/portfolio.git"
+  },
+  "keywords": [
+    "bullshit",
+    "fake",
+    "Internet",
+    "design",
+    "technology"
+  ],
+  "author": "jeff ong",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jffng/portfolio/issues"
+  },
+  "homepage": "https://github.com/jffng/portfolio",
+  "devDependencies": {
+    "gulp-sass": "^2.2.0"
+  }
+}
